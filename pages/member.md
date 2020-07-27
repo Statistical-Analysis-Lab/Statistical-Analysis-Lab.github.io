@@ -75,7 +75,7 @@ tags: [Gallery, Photo]
   <font size="6"><b>성성민</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
-  Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis
+  Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis<br><br><br>
 	</center>
 </div>
 
