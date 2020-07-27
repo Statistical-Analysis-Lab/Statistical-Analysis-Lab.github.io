@@ -102,8 +102,8 @@ tags: [Publication]
 
 ## 저서 및 번역
 
-1. Park SH, Oh JH, Kwon SS: 통계로 풀어가는 빅데이터. 한국표준협회미디어 (ISBN 979-11-6010-000-6). 2016.9.1.
-2. 정형외과 논문작성법. (ISBN 978-89-94585-29-1) 2015.5.23.
-3. Kwon SS, Chung CY, Park MS. Medical statistics. YoungChang medical book (ISBN 978-89-92676-39-7) 2013.10.17.
-4. Chung CY, Wang KC, Bang MS, Lee JH, Park MS etc. (including Kwon SS): Introduction to Cerebral Palsy, 1st edition, Seoul, KoonJa publication (ISBN 978-89-6278-725-2) 2013.5.15.
+1. Park SH, Oh JH, Kwon SS: <a href="http://seoji.nl.go.kr/landingPage?isbn=9791160100006" target="_blank">통계로 풀어가는 빅데이터</a>. 한국표준협회미디어 (ISBN 979-11-6010-000-6). 2016.9.1.
+2. <a href="http://seoji.nl.go.kr/landingPage?isbn=9788994585291" target="_blank">정형외과 논문작성법</a>. (ISBN 978-89-94585-29-1) 2015.5.23.
+3. Kwon SS, Chung CY, Park MS. <a href="http://seoji.nl.go.kr/landingPage?isbn=9788992676397" target="_blank"> Medical statistics</a>. YoungChang medical book (ISBN 978-89-92676-39-7) 2013.10.17.
+4. Chung CY, Wang KC, Bang MS, Lee JH, Park MS etc. (including Kwon SS): <a href="http://seoji.nl.go.kr/landingPage?isbn=9788962787252" target="_blank">Introduction to Cerebral Palsy</a>, 1st edition, Seoul, KoonJa publication (ISBN 978-89-6278-725-2) 2013.5.15.
 
