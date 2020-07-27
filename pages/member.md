@@ -15,7 +15,7 @@ tags: [Gallery, Photo]
 
 
 <center>
-	<img src="https://github.com/ksstest/ksstest.github.io/blob/master/assets/img/member/member.jpg?raw=true" align="middle"><br>
+	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/prof_kss.jpg?raw=true" align="middle"><br>
   <font size="6"><b>권순선</b></font><br>
   <font color="#E6E6FA">부교수</font><br>
   수학과, 데이터사이언스학과<br>
