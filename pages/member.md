@@ -76,7 +76,8 @@ tags: [Gallery, Photo]
   Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis<br><br><br>
 	</center>
 </div>
-<div style="float: left; width: 50%;">
+<div style="width: 50%;">
+test
 </div>
 
 ###### ALUMNI
