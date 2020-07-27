@@ -35,8 +35,6 @@ tags: [Gallery, Photo]
 
 ## 석사 과정
 
-
-
 <div style="float: left; width: 50%;">
 	<center>
 	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/syh.jpeg?raw=true" style="width: auto; height: 400px;"><br>
@@ -78,7 +76,8 @@ tags: [Gallery, Photo]
   Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis<br><br><br>
 	</center>
 </div>
-<div>-</div>
+<div style="float: left; width: 50%;">
+</div>
 
 ###### ALUMNI
 ## 졸업생
