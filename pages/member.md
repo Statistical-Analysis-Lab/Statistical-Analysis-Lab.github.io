@@ -39,30 +39,30 @@ tags: [Gallery, Photo]
 
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/ksstest/ksstest.github.io/blob/master/assets/img/member/01.jpg?raw=true" style="width: auto; height: 400px;"><br>
+	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/syh.jpeg?raw=true" style="width: auto; height: 400px;"><br>
   <font size="6"><b>송윤호</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   수학과<br>
 	muiopotmos@ajou.ac.kr<br>
-  표본조사, 표분배분법 및 가중치 부여방법<br><br>
+  표본조사,<br> 표분배분법 및 가중치 부여방법<br><br>
 </center>  
 </div>
 
 
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/ksstest/ksstest.github.io/blob/master/assets/img/member/04.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
+	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/hsb.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
   <font size="6"><b>허성보</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
 	hsb@ajou.ac.kr<br>
-	Bio & Genome Data Analysis, Ai-based Drug Discovery & Precision Medicine
+	Bio & Genome Data Analysis,<br> Ai-based Drug Discovery & Precision Medicine
 	</center>
 </div>
 
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/ksstest/ksstest.github.io/blob/master/assets/img/member/04.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
+	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/ksh.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
   <font size="6"><b>김선혜</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
@@ -71,11 +71,11 @@ tags: [Gallery, Photo]
 </div>
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/ksstest/ksstest.github.io/blob/master/assets/img/member/04.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
-  <font size="6"><b>성성</b></font><br>
+	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/ssm.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
+  <font size="6"><b>성성민</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
-  Machine Learning, Deep Learning, Healthcare Data Analysis
+  Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis
 	</center>
 </div>
 
@@ -99,7 +99,7 @@ tags: [Gallery, Photo]
   <font size="6"><b>류한열</b></font><br>
   데이터사이언스학과<br>
 	hanyul@ajou.ac.kr<br>
-	Machine Learning, Deep Learning, Statistical Analysis
+	Machine Learning,<br> Deep Learning,<br> Statistical Analysis
 	</center>
 </div>
 <div style="float: left; width: 50%;">
