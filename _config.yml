@@ -1,9 +1,9 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://pignu.co.kr"
+url: "https://statistical-analysis-lab.github.io/"
 enforce_ssl: www.pignu.co.kr
-title: test for kss lab page # site's title
-description: "test for kss lab page" # used by search engines
+title:  Statistical Analysis Lab # site's title
+description: "STA Lab Ajou university" # used by search engines
 
 defaults:
   - 
@@ -20,7 +20,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Test for KSS LAB Page
+  header_text: Statistical Analysis Lab
   header_feature_image: assets/img/pexels/galaxy.jpeg
   footer_text: >
     Powered by <a href="https://blog.pignu.kr">Pignu Ante</a>
