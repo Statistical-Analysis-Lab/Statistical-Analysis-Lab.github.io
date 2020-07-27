@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 반갑습니다.
+title: Statistical Analysis Lab
 tags: [entry]
 author-id: pignu
 excerpt_separator: <!--more-->
 ---
+
+# Statistical Analysis Lab ; STA Lab
 
 ## 연구실 소개
 

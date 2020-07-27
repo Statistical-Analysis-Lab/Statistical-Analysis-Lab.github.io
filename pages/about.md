@@ -5,6 +5,8 @@ permalink: /about/
 tags: [About, Archive]
 ---
 
+# Statistical Analysis Lab ; STA Lab
+
 ## 연구실 소개
 
 지식정보화 사회에서 방대하고 자료의 특성들이 점점 복잡해짐에 따라 이들의 패턴을 찾아내는 작업은
