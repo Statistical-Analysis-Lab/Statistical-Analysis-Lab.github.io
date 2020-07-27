@@ -77,7 +77,7 @@ tags: [Gallery, Photo]
 	</center>
 </div>
 <div style="width: 50%;">
-test
+
 </div>
 
 ###### ALUMNI
