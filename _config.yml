@@ -17,7 +17,6 @@ theme_settings:
   # Meta
   avatar: assets/img/tree.png
   # color_image: /assets/img/lineart.png # In post when you set color
-  favicon: assets/favicon.ico
 
   # Header and footer text
   header_text: Statistical Analysis Lab
