@@ -1,13 +1,6 @@
 <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
-        {% if post.thumbnail %}
-        <div class="post-img">
-            <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
-                <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
-            </a>
-        </div>
-        {% endif %}
         <span>
           <header>
             <h1>
@@ -24,5 +17,3 @@
     </div>
     {% endfor %}
 </div>
-
-{% include blog_nav.html %}
