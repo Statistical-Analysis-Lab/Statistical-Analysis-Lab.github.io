@@ -74,9 +74,9 @@ tags: [Gallery, Photo]
   Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis
 	</center>
 </div>
-<div style="width: 50%;">
--
-</div>
+
+\-
+
 
 ###### ALUMNI
 ## 졸업생
