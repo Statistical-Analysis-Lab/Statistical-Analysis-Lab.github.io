@@ -3,14 +3,14 @@ layout: default
 ---
 
 <div class="home">
-  <!-- {% if site.theme_settings.header_text %}
+  {% if site.theme_settings.header_text %}
   <div id="main" class="call-out"
   style="background-image: url('{{ site.theme_settings.header_feature_image | relative_url }}')">
     <h1> {{ site.theme_settings.header_text }} </h1>
   </div>
   {% endif %}
 
-  {% include blog.html %} -->
+  <!-- {% include blog.html %} -->
 
   <article {% if page.feature-img %}class="feature-image"{% endif %}>
     <header id="main" style="background-image: url('{{ page.feature-img | relative_url }}')">
