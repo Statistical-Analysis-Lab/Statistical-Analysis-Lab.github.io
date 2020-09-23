@@ -42,7 +42,7 @@ tags: [Gallery, Photo]
   <font color="#E6E6FA">석사과정</font><br>
   수학과<br>
   표본조사,<br> 표분배분법 및 가중치 부여방법<br><br>
-</center>  
+	</center>  
 </div>
 
 
@@ -104,6 +104,7 @@ tags: [Gallery, Photo]
   <font size="6"><b>조건</b></font><br>
   데이터사이언스학과<br>
 	시계열 데이터 분석 및 예측
+	<br>
 	</center>
 </div>
 
