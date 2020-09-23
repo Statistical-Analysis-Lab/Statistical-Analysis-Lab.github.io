@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://statistical-analysis-lab.github.io/"
-enforce_ssl: www.pignu.co.kr
+# enforce_ssl: www.pignu.co.kr
 title:  Statistical Analysis Lab # site's title
 description: "STA Lab Ajou university" # used by search engines
 
@@ -17,15 +17,16 @@ theme_settings:
   # Meta
   avatar: assets/img/tree.png
   # color_image: /assets/img/lineart.png # In post when you set color
+  # favicon: assets/favicon.ico
 
   # Header and footer text
   header_text: Statistical Analysis Lab
   header_feature_image: assets/img/pexels/galaxy.jpeg
-  footer_text: >
-    Powered by <a href="https://blog.pignu.kr">Pignu Ante</a>
+  # footer_text: >
+  #   Powered by <a href="https://blog.pignu.kr">Pignu Ante</a>
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: hanyul@ajou.ac.kr 
+  # rss: true  # Make sure you created a feed.xml with feed.xml layout
+  # email_address: hanyul@ajou.ac.kr 
   behance:
   bitbucket:
   dribbble:
@@ -90,11 +91,11 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # AUTHORS
-authors:
-  pignu: # author-id
-    name: pignu 
-    avatar: "assets/img/avatars/pignu.jpg"
-    url: "https://blog.pignu.kr" 
+# authors:
+#   pignu: # author-id
+#     name: pignu 
+#     avatar: "assets/img/avatars/pignu.jpg"
+#     url: "https://blog.pignu.kr" 
   
 
 # PORTFOLIO
