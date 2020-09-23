@@ -41,7 +41,7 @@ tags: [Gallery, Photo]
   <font size="6"><b>송윤호</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   수학과<br>
-  표본조사,<br> 표분배분법 및 가중치 부여방법
+  표본조사,<br> 표분배분법 및 가중치 부여방법 <br>
 	</center>  
 </div>
 
@@ -65,6 +65,7 @@ tags: [Gallery, Photo]
     Healthcare Big Data Analysis
 	</center>
 </div>
+
 <div style="float: left; width: 50%;">
 	<center>
 	<br>
@@ -74,8 +75,7 @@ tags: [Gallery, Photo]
   Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis
 	</center>
 </div>
-
-\-
+<br>
 
 
 ###### ALUMNI
