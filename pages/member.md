@@ -37,11 +37,10 @@ tags: [Gallery, Photo]
 
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/syh.jpeg?raw=true" style="width: auto; height: 400px;"><br>
+	<br>
   <font size="6"><b>송윤호</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   수학과<br>
-	muiopotmos@ajou.ac.kr<br>
   표본조사,<br> 표분배분법 및 가중치 부여방법<br><br>
 </center>  
 </div>
@@ -49,18 +48,17 @@ tags: [Gallery, Photo]
 
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/hsb.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
+	<br>
   <font size="6"><b>허성보</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
-	hsb@ajou.ac.kr<br>
 	Bio & Genome Data Analysis,<br> Ai-based Drug Discovery & Precision Medicine
 	</center>
 </div>
 
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/ksh.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
+	<br>
   <font size="6"><b>김선혜</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
@@ -69,7 +67,7 @@ tags: [Gallery, Photo]
 </div>
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/ssm.jpeg?raw=true"  style="max-width: 100%; height: auto;"><br>
+	<br>
   <font size="6"><b>성성민</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
@@ -84,10 +82,9 @@ tags: [Gallery, Photo]
 ## 졸업생
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/lja.jpeg?raw=true" style="width: auto; height: 400px;"><br>
+	<br>
   <font size="6"><b>이정아</b></font><br>
   수학과<br>
-	wjddk9406@ajou.ac.kr<br>
 	Imputation for Missing Data
   <br><br>
 	</center>
@@ -95,19 +92,17 @@ tags: [Gallery, Photo]
 
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/rhy.jpg?raw=true"  style="max-width: 100%; height: auto;"><br>
+	<br>
   <font size="6"><b>류한열</b></font><br>
   데이터사이언스학과<br>
-	hanyul@ajou.ac.kr<br>
 	Machine Learning,<br> Deep Learning,<br> Statistical Analysis
 	</center>
 </div>
 <div style="float: left; width: 50%;">
 	<center>
-	<img src="https://github.com/Statistical-Analysis-Lab/Statistical-Analysis-Lab.github.io/blob/master/assets/img/member/jk.png?raw=true"  style="max-width: 100%; height: auto;"><br>
+	<br>
   <font size="6"><b>조건</b></font><br>
   데이터사이언스학과<br>
-	hadeskhan@ajou.ac.kr<br>
 	시계열 데이터 분석 및 예측
 	</center>
 </div>
