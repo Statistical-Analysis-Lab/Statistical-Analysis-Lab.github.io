@@ -41,7 +41,7 @@ tags: [Gallery, Photo]
   <font size="6"><b>송윤호</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   수학과<br>
-  표본조사,<br> 표분배분법 및 가중치 부여방법<br><br>
+  표본조사,<br> 표분배분법 및 가중치 부여방법
 	</center>  
 </div>
 
@@ -71,7 +71,7 @@ tags: [Gallery, Photo]
   <font size="6"><b>성성민</b></font><br>
   <font color="#E6E6FA">석사과정</font><br>
   데이터사이언스학과<br>
-  Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis<br><br><br>
+  Machine Learning,<br> Deep Learning,<br> Healthcare Data Analysis
 	</center>
 </div>
 <div style="width: 50%;">
