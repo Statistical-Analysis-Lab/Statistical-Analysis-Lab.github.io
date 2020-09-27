@@ -86,12 +86,16 @@ tags: [Gallery, Photo]
 	</center>
 </div>
 
-<br>
-<br>
+<div style="float: left; width: 50%;">
+	<center>
+	<br>
+	</center>
+</div>
 
 
 ###### ALUMNI
 ## 졸업생
+
 <div style="float: left; width: 50%;">
 	<center>
 	<br>
