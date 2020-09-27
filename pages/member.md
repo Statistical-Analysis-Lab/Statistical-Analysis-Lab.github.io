@@ -88,7 +88,7 @@ tags: [Gallery, Photo]
 
 <div style="float: left; width: 50%;">
 	<center>
-	<br>
+		<br><br><br><br><br><br>
 	</center>
 </div>
 
